@@ -19,3 +19,6 @@
 [submodule "vim-buffergator"]
     path = .vim/bundle/vim-buffergator
     url = https://github.com/jeetsukumaran/vim-buffergator.git
+[submodule "molokai"]
+    path = .vim/bundle/molokai
+    url = https://github.com/tomasr/molokai.git
